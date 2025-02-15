@@ -7,7 +7,7 @@ APIs are mechanisms that enable two software components to communicate with each
 
 ### What does API stand for? 
 
-API stands for Application Programming Language. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. Their API documentation contains information on how developers are to structure those requests and responses.
+API stands for *Application Programming Language*. In the context of APIs, the word *Application* refers to any software with a distinct function. *Interface* can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. Their API documentation contains information on how developers are to structure those requests and responses.
 
 ### Types of API
 
@@ -21,7 +21,7 @@ API stands for Application Programming Language. In the context of APIs, the wor
 
 `HTTP`
 
-HTTP stands for Hypertext Transfer Protocol. It's a set of rules that allow web browsers and servers to communicate with each other. HTTP is the foundation of the World Wide Web.
+HTTP stands for *Hypertext Transfer Protocol*. It's a set of rules that allow web browsers and servers to communicate with each other. HTTP is the foundation of the World Wide Web.
 
 How HTTP works: 
 
@@ -29,11 +29,19 @@ How HTTP works:
 * The server sends a HTTP response back to the browser.
 * The browser is called the "client" and the server-browser relationship is called a "client-server" relationship.
 
+`CRUD`
+
+*C*reate, *R*ead, *U*pdate, *D*elete are the four basic functions that models should be able to do, at most.
 
 
 
 
-### Reference 
+
+
+
+
+
+### References
 
 `Salesforce Trailhead`
 
@@ -43,4 +51,6 @@ How HTTP works:
 
 [AWS - What is an API? ](https://aws.amazon.com/what-is/api/)
 
+`Codecademy`
 
+[What is Crud? | Codecademy](https://www.codecademy.com/article/what-is-crud)
