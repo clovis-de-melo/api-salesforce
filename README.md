@@ -4,8 +4,6 @@
 
 ### HTTP Request Methods
 
-![HTTP verbs & descriptions](/images/HTTP%20verbs%20&%20descriptions.png)
-
 ### Reference 
 
 `Salesforce Trailhead`
