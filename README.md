@@ -4,6 +4,10 @@
 
 ### HTTP Request Methods
 
+### Salesforce APIs
+
+![Salesforce APIs](images/Salesforce%20APIs%20-%20Integrate%20applications%20with%20Salesforce.png)
+
 ### Reference 
 
 `Salesforce Trailhead`
