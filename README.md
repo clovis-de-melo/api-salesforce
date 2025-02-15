@@ -37,7 +37,7 @@ How HTTP works:
 
 `Salesforce Trailhead`
 
-[API Basics | Salesforce Trailhead: : Learn the fundamentals and benefits of developing with APIs.](https://trailhead.salesforce.com/content/learn/modules/pw-api-basics)
+[API Basics | Salesforce Trailhead: Learn the fundamentals and benefits of developing with APIs.](https://trailhead.salesforce.com/content/learn/modules/pw-api-basics)
 
 `AWS`
 
