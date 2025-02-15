@@ -17,6 +17,10 @@ API stands for *Application Programming Language*. In the context of APIs, the w
 
 ![Salesforce APIs](images/Salesforce%20APIs%20-%20Integrate%20applications%20with%20Salesforce.png)
 
+### What is Apex? 
+
+Apex is a strongly typed, *object-oriented programming language* that allows developers to execute flow and transaction control statements on Salesforce servers in conjunction with calls to the API. Using syntax that looks like Java and acts like database stored procedures, Apex enables developers to add business logic to most system events, including button clicks, related record updates, and Visualforce pages. Apex code can be initiated by Web service requests and from triggers on objects.
+
 ### Keywords 
 
 `HTTP`
@@ -34,6 +38,9 @@ How HTTP works:
 *C*reate, *R*ead, *U*pdate, *D*elete are the four basic functions that models should be able to do, at most.
 
 
+`cURL`
+
+
 
 
 
@@ -43,9 +50,11 @@ How HTTP works:
 
 ### References
 
-`Salesforce Trailhead`
+`Salesforce`
 
 [API Basics | Salesforce Trailhead: Learn the fundamentals and benefits of developing with APIs.](https://trailhead.salesforce.com/content/learn/modules/pw-api-basics)
+
+[What is Apex? | Salesforce Developers](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
 
 `AWS`
 
