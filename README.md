@@ -1,4 +1,4 @@
-# api-salesforce
+# API & Salesforce
 
 ### What is an API?
 
@@ -21,7 +21,7 @@ API stands for *Application Programming Language*. In the context of APIs, the w
 
 Apex is a strongly typed, *object-oriented programming language* that allows developers to execute flow and transaction control statements on Salesforce servers in conjunction with calls to the API. Using syntax that looks like Java and acts like database stored procedures, Apex enables developers to add business logic to most system events, including button clicks, related record updates, and Visualforce pages. Apex code can be initiated by Web service requests and from triggers on objects.
 
-### Keywords 
+## Keywords 
 
 `HTTP`
 
@@ -48,7 +48,7 @@ How HTTP works:
 
 
 
-### References
+## References
 
 `Salesforce`
 
