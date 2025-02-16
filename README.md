@@ -65,7 +65,7 @@ The name "curl" stands for *Client for URL*. Is a command-line tool and library 
 
 [AWS | What is an API? ](https://aws.amazon.com/what-is/api/)
 
-[AWS | What is an SDK?]()
+[AWS | What is an SDK?](https://aws.amazon.com/what-is/sdk/)
 
 `Codecademy`
 
