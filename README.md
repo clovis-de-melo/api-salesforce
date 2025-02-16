@@ -59,7 +59,7 @@ The name "curl" stands for *Client for URL*. Is a command-line tool and library 
 
 [Salesforce Developers | What is Apex?](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
 
-[Salesforce Developers | Meta classes](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+[Salesforce Developers | Apex meta classes](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
 
 `AWS`
 
@@ -69,5 +69,5 @@ The name "curl" stands for *Client for URL*. Is a command-line tool and library 
 
 `Codecademy`
 
-[What is Crud? | Codecademy](https://www.codecademy.com/article/what-is-crud)
+[Codecademy | What is Crud?](https://www.codecademy.com/article/what-is-crud)
 
