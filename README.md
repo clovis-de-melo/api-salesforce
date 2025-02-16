@@ -55,11 +55,11 @@ The name "curl" stands for *Client for URL*. Is a command-line tool and library 
 
 `Salesforce`
 
-[API Basics | Salesforce Trailhead: Learn the fundamentals and benefits of developing with APIs.](https://trailhead.salesforce.com/content/learn/modules/pw-api-basics)
+[Salesforce Trailhead | API basics](https://trailhead.salesforce.com/content/learn/modules/pw-api-basics)
 
-[What is Apex? | Salesforce Developers](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
+[Salesforce Developers | What is Apex?](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
 
-[ApexClass | Salesforce Developers](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+[Salesforce Developers | Meta classes](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
 
 `AWS`
 
