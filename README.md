@@ -46,6 +46,10 @@ How HTTP works:
 
 The name "curl" stands for *Client for URL*. Is a command-line tool and library for transferring data with URLs. It was originally developed by Daniel Stenberg and has become one of the most versatile and powerful utilities for data transfer over the Internet
 
+`SDK`
+
+ A *software development kit* (SDK) is a set of platform-specific building tools for developers. You require components like debuggers, compilers, and libraries to create code that runs on a specific platform, operating system, or programming language. SDKs put everything you need to develop and run software in one place. Additionally, they contain resources like documentation, tutorials, and guides as well as APIs and frameworks for faster application development.
+
 
 ## References
 
@@ -59,8 +63,11 @@ The name "curl" stands for *Client for URL*. Is a command-line tool and library 
 
 `AWS`
 
-[AWS - What is an API? ](https://aws.amazon.com/what-is/api/)
+[AWS | What is an API? ](https://aws.amazon.com/what-is/api/)
+
+[AWS | What is an SDK?]()
 
 `Codecademy`
 
 [What is Crud? | Codecademy](https://www.codecademy.com/article/what-is-crud)
+
